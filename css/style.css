@@ -89,7 +89,7 @@ header {
 }
 
 .logo {
-    background: url("../images/fernanda-avatar.png");
+    background: url("../assets/images/fernanda-avatar.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -362,7 +362,6 @@ button[type="submit"]{
 }
 
 /* Media Query */
-
 @media(min-width: 992px){
     .center-form{
         padding-top:30px;
